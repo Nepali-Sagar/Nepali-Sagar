@@ -1,5 +1,4 @@
 <p align="center">
-  <img alt="Gradient" src="https://raw.githubusercontent.com/unnics/profile-readme-assets/main/gradients/gradient-1.svg" width="100%" />
   <h1 align="center">👋 Hi, I'm Sagar Nepali</h1>
   <p align="center">Creative web developer • Open-source tinkerer</p>
 
@@ -41,7 +40,7 @@
 
 ## GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nepali-Sagar&layout=compact&theme=synthwave" alt="Top languages" />
 </p>
 
