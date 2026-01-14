@@ -1,61 +1,30 @@
-<p align="center">
-  <h1 align="center">👋 Hi, I'm Sagar Nepali</h1>
-  <p align="center">Creative web developer • Open-source tinkerer</p>
+# Hello 👋, I'm Sagar Nepali
+### Frontend Developer
 
-  <p align="center">
-    <a href="https://github.com/Nepali-Sagar">
-      <img alt="github" src="https://img.shields.io/badge/GitHub-Nepali--Sagar-181717?style=for-the-badge&logo=github" />
-    </a>
-    <a href="https://www.linkedin.com/in/sagar-nepali-343a18384/">
-      <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Sagar-blue?style=for-the-badge&logo=linkedin" />
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sagarnepali0960@gmail.com">
-      <img alt="email" src="https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge&logo=gmail" />
-    </a>
-  </p>
-</p>
+I’m a Computer Science student focused on building a strong foundation in web development. I work primarily with HTML, CSS, and JavaScript, and I’m actively improving my skills by building projects and learning through hands-on practice.
 
----
+My goal is to move beyond tutorials and focus on clean code, problem-solving, and real-world projects. I use GitHub to track my progress, experiment with ideas, and gradually improve the quality of my work as I learn new concepts.
 
-## About Me
+I’m currently strengthening my fundamentals in front-end development and plan to expand into more advanced JavaScript and modern web tools as I progress.
 
-- 🔭 I build responsive web apps using HTML, CSS, JavaScript and React.
-- 🌱 I’m learning advanced Python tooling and backend APIs.
-- 👯 I love collaborating on open-source projects and community tutorials.
-- 💬 Ask me about web performance, accessibility, and clean code.
+## Contact Me
+<p><a href="https://www.linkedin.com/in/sagar-nepali-343a18384/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="sagar74715" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
----
-
-## Tech Stack
+## Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
 </p>
-
----
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nepali-Sagar&layout=compact&theme=synthwave" alt="Top languages" />
-</p>
+## GitHub Activity Graph
 
----
-
-## Featured Projects
-
-- [Project-One](https://github.com/Nepali-Sagar/project-one)
-- [Project-Two](https://github.com/Nepali-Sagar/project-two)
-
----
-
-## Contact & Next Steps
-
-- ✉️ Email: `sagarnepali0960@gmail.com`
-- 💼 LinkedIn: https://www.linkedin.com/in/sagar-nepali-343a18384/
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nepali-Sagar&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
 
