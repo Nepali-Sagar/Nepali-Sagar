@@ -1,50 +1,64 @@
-# 👋 Hello, I'm Sagar Nepali
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+</div>
 
-**Frontend Developer & Computer Science Student**
+###
 
-I'm passionate about building clean, user-friendly web applications with modern web technologies. My focus is on mastering the fundamentals of web development while writing scalable, maintainable code.
+<p align="left">My name Sagar, a Frontend Developer, from Nepal.<br>Currently learning React and Node.js</p>
 
-### About Me
-- 🎯 Building projects that solve real-world problems
-- 💻 Specializing in **HTML**, **CSS**, and **JavaScript**
-- 📚 Continuously learning modern web development frameworks and best practices
-- 🚀 Transitioning from tutorial-based learning to production-ready code
+###
 
-### My Philosophy
-I believe in learning by building. Every project is an opportunity to apply new concepts, improve code quality, and solve meaningful problems. Clean code and problem-solving are at the heart of my development journey.
+<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg5OTM2Y21zdXBobzhtMXMxMXhkZ2hucG9sdTB1M2lzaDI0c3pwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cl2PsDEg80omBDkq8G/giphy.gif"  />
 
-## 📬 Connect With Me
+###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sagar-nepali-343a18384/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/sagar74715" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/Nepali-Sagar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-## 🛠️ Technical Skills
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma"/>
-</div>
-## 📊 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nepali-Sagar&radius=16&theme=rogue&area=true&order=5" height="300" alt="GitHub Activity Graph" />
-
----
+###
 
 <div align="center">
-  <p><strong>Let's build something amazing together! 🚀</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 </div>
 
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/sagar-nepali-343a18384" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="sagar74715" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+</div>
+
+###
