@@ -1,62 +1,46 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
 
-###
+# Sagar
 
-<p align="left">My name Sagar, a Frontend Developer, from Nepal.<br>Currently learning React and Node.js</p>
+**Frontend Developer · Aspiring Full-Stack Developer**
 
-###
+I'm a developer from Nepal focused on building web applications, strengthening my fundamentals, and continuously improving my development skills.
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg5OTM2Y21zdXBobzhtMXMxMXhkZ2hucG9sdTB1M2lzaDI0c3pwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cl2PsDEg80omBDkq8G/giphy.gif"  />
+I work with HTML, CSS, and JavaScript to build interactive interfaces, and I'm expanding my backend knowledge with Node.js, Express.js, and MongoDB. I'm currently learning React and working toward becoming a more capable full-stack developer.
 
-###
+### What I'm Working With
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+**Frontend**
 
-###
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-</div>
+**Backend & Database**
 
-###
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-18181B?style=flat-square&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248)
 
-<div align="center">
-  <p>Contact</p>
-  <a href="https://www.linkedin.com/in/sagar-nepali-343a18384/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+**Tools & Workflow**
 
-###
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FFFFFF)
 
-<br clear="both">
+### Current Focus
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
-</div>
+- Improving my JavaScript fundamentals and problem-solving skills.
+- Building CRUD applications and understanding backend development.
+- Learning React and exploring modern frontend development.
+- Gradually developing the skills required to build complete full-stack applications.
 
-###
+### A Little More About My Journey
+
+I believe becoming a better developer comes from consistent practice, building projects, learning from mistakes, and improving one step at a time. I'm focused on strengthening what I know while challenging myself to learn what comes next.
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sagar-nepali-343a18384/)
+
+---
+
+<sub>Always learning. Always building. Always improving.</sub>
